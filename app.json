@@ -1,8 +1,8 @@
 {
-"name": "Nandhutty V3",
-  "description": "Lightweight WhatsApp Bot",
+"name": "Bot Eke",
+  "description": "Laçin Eke WhatsApp Bot",
   "repository": "https://github.com/Ajmal-Achu/Nandhutty-V3",
-  "logo": "https://telegra.ph/file/a5476198bcf35794b7953.jpg",
+  "logo": "https://telegra.ph/file/062af743f10819a424cca.jpg",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"],
 
     "buildpacks": [

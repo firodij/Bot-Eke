@@ -1,7 +1,7 @@
-# NANDHUTTY-V3
+# Bot-Eke
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/a5476198bcf35794b7953.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/062af743f10819a424cca.jpg" width="200" height="200"/>
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
